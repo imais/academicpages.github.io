@@ -24,10 +24,10 @@ author_profile: true
 
 ## Air Flight Safety
 
-1. **[Airplane Flight Safety Using Error-Tolerant Data Stream Processing](pilos-aesm.pdf)** <br>
+1. **[Airplane Flight Safety Using Error-Tolerant Data Stream Processing](pilots-aesm.pdf)** <br>
 **Shigeru Imai**, Thomas Chestna, and Carlos A. Varela. *IEEE Aerospace and Electronics Systems Magazine*, 32(4):4-17, 2017.
 
-1. **[Dynamic Data-Driven Learning for Self-Healing Avionics](pilos-aesm.pdf)** <br>
+1. **[Dynamic Data-Driven Learning for Self-Healing Avionics](pilots-cluster.pdf)** <br>
 **Shigeru Imai**, Sida Chen, Wennan Zhu, and Carlos A. Varela. *Cluster Computing*, [DOI](https://doi.org/10.1007/s10586-017-1291-8), 2017. 
 
 1. **[Self-Healing Spatio-Temporal Data Streams Using Error Signatures](bdse2013.pdf)** <br>
