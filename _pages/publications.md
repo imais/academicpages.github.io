@@ -1,16 +1,36 @@
 ---
-layout: archive
-title: "Publications"
+title: "Selected Publications [(Google Scholar profile)](https://scholar.google.com/citations?user=9L6jseIAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Cloud Computing
 
-{% include base_path %}
+1. **[Uncertainty-Aware Elastic Virtual Machine Scheduling for Stream Processing Systems](./files/papers/ccgrid2018.pdf)** <br>
+**Shigeru Imai**, Stacy Paterson, and Carlos A. Varela. *In 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2018)*, 2018. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. **[Maximum Sustainable Throughput Prediction for Data Stream Processing over Public Clouds](./files/papers/ccgrid2017.pdf)** <br>
+**Shigeru Imai**, Stacy Paterson, and Carlos A. Varela. *In 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2017)*, 2016.
+
+1. **[Cost-Efficient Elastic Stream Processing Using Application-Agnostic Performance Prediction](./files/papers/ccgrid2016-phd.pdf)** <br>
+**Shigeru Imai**, Stacy Paterson, and Carlos A. Varela. *In 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2016): Doctoral Symposium*, 2017. <b> <span style="color:red">Best Doctoral Symposium Paper Award </span> </b>.
+
+1. **[Accurate Resource Prediction for Hybrid IaaS Clouds Using Workload-Tailored Elastic Compute Units](./files/papers/ucc2013.pdf)** <br>
+**Shigeru Imai**, Thomas Chestna, and Carlos A. Varela. *In 6th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2013)*, 2013.
+
+1. **[Elastic Scalable Cloud Computing Using Application-Level Migration](./files/papers/ucc2012.pdf)** <br>
+**Shigeru Imai**, Thomas Chestna, and Carlos A. Varela. *In 5th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2012)*, 2012.
+
+
+## Air Flight Safety
+
+1. **[Airplane Flight Safety Using Error-Tolerant Data Stream Processing](./files/papers/pilos-aesm.pdf)** <br>
+**Shigeru Imai**, Thomas Chestna, and Carlos A. Varela. *IEEE Aerospace and Electronics Systems Magazine*, 32(4):4-17, 2017.
+
+1. **[Dynamic Data-Driven Learning for Self-Healing Avionics](./files/papers/pilos-aesm.pdf)** <br>
+**Shigeru Imai**, Sida Chen, Wennan Zhu, and Carlos A. Varela. *Cluster Computing*, [DOI](https://doi.org/10.1007/s10586-017-1291-8), 2017. 
+
+1. **[Self-Healing Spatio-Temporal Data Streams Using Error Signatures](./files/papers/bdse2013.pdf)** <br>
+**Shigeru Imai**, Richard Klockowski, and Carlos A. Varela. *In 2nd International Conference on Big Data Science and Engineering (BDSE 2013)*, 2013.
+
+
