@@ -18,12 +18,12 @@ Before joining RPI, I received my B.S. and M.Eng. from Tokyo Institute of Techno
 Research
 ======
 My current research interests include data streaming, distributed systems, and cloud computing. 
-In particular, my [Ph.D. disseration](./files/papers/dissertation-imais.pdf) focuses on QoS-aware elastic virtual machine scheduling.
+In particular, my [Ph.D. dissertation](./files/papers/dissertation-imais.pdf) focuses on QoS-aware elastic virtual machine scheduling.
 
 
 Skills
 ======
-- *Cloud resource managment*: cloud services (Amazon Web Services, Google Cloud), 
+- *Cloud resource management*: cloud services (Amazon Web Services, Google Cloud), 
   performance modeling of distributed applications, benchmark automation, time-series analysis,
   resource scheduling
 - *Distributed systems*: Apache Storm, Kafka, Spark, Hadoop
