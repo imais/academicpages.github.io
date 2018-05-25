@@ -18,7 +18,7 @@ Before joining RPI, I received my B.S. and M.Eng. from Tokyo Institute of Techno
 Research
 ======
 My current research interests include data streaming, distributed systems, and cloud computing. 
-In particular, my [Ph.D. dissertation](./files/papers/dissertation-imais.pdf) focuses on QoS-aware elastic virtual machine scheduling.
+In particular, my [Ph.D. dissertation](publications/dissertation-imais.pdf) focuses on QoS-aware elastic virtual machine scheduling.
 
 
 Skills
