@@ -10,10 +10,10 @@ author_profile: true
 **Shigeru Imai**, Stacy Paterson, and Carlos A. Varela. *In 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2018)*, 2018. 
 
 1. **[Maximum Sustainable Throughput Prediction for Data Stream Processing over Public Clouds](../files/papers/ccgrid2017.pdf)** <br>
-**Shigeru Imai**, Stacy Paterson, and Carlos A. Varela. *In 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2017)*, 2016.
+**Shigeru Imai**, Stacy Paterson, and Carlos A. Varela. *In 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2017)*, 2017.
 
 1. **[Cost-Efficient Elastic Stream Processing Using Application-Agnostic Performance Prediction](../files/papers/ccgrid2016-phd.pdf)** <br>
-**Shigeru Imai**, Stacy Paterson, and Carlos A. Varela. *In 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2016): Doctoral Symposium*, 2017. <b> <span style="color:red">Best Doctoral Symposium Paper Award </span> </b>.
+**Shigeru Imai**, Stacy Paterson, and Carlos A. Varela. *In 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2016): Doctoral Symposium*, 2016. <b> <span style="color:red">Best Doctoral Symposium Paper Award</span></b>.
 
 1. **[Accurate Resource Prediction for Hybrid IaaS Clouds Using Workload-Tailored Elastic Compute Units](../files/papers/ucc2013.pdf)** <br>
 **Shigeru Imai**, Thomas Chestna, and Carlos A. Varela. *In 6th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2013)*, 2013.
