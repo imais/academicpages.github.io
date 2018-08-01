@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc with Professor [Stacy Patterson](http://www.cs.rpi.edu/~pattes3/) at [Rensselaer Polytechnic Institute (RPI)](http://www.rpi.edu/). 
+I am a postdoctoral research associate with Professor [Stacy Patterson](http://www.cs.rpi.edu/~pattes3/) at [Rensselaer Polytechnic Institute (RPI)](http://www.rpi.edu/). 
 *I am currently looking for a full-time position as a researcher/software engineer.*
 
 I received my Ph.D. in Computer Science from RPI, where I was awarded with the Robert McNaughton Prize for outstanding performance as a graduate student in Computer Science. I was a member of the [Worldwide Computing Lab](http://wcl.cs.rpi.edu), and advised by Professor [Carlos A. Varela](http://www.cs.rpi.edu/~cvarela/) and Professor [Stacy Patterson](http://www.cs.rpi.edu/~pattes3/).

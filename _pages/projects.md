@@ -16,6 +16,7 @@ author_profile: true
 ## PILOTS
 * Researched a new domain-specific programming language [PILOTS](http://wcl.cs.rpi.edu/pilots/) for spatio-temporal data streaming application to facilitate the development of smarter flight systems.
 * Development of PILOTS was inspired by the Air France 447 accident which original cause of the accident was airspeed sensor failures. PILOTS tries to detect data errors by cross-checking multiple data streams and fix them when possible.
+* Local news exposures: [Troy Record](http://www.troyrecord.com/general-news/20140406/rpi-research-group-working-on-a-facet-of-airline-problems-currently-in-news), [Albany Times Union](https://m.timesunion.com/default/article/Software-developed-to-detect-fix-data-errors-5377823.php).
 * Demo video of a PILOTS program detecting and correcting the airspeed sensor failure occurred in the Air France 447 accident:
 
   <video controls width="560" height="315" src="../files/videos/pilots-af447.mov" poster="../files/videos/pilots-af447.jpg"> </video>
