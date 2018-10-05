@@ -34,6 +34,16 @@ author_profile: true
 * Integrated a [3D-system](http://csdt-imais.blogspot.com/) to the [C-Snap](https://github.com/CSnap/CSnap) visual programming environment using *three.js*.
 * This was a summer research project supervised by Professor [Eglash](http://homepages.rpi.edu/~eglash/eglash.htm) and Professor [Moorthy](http://www.cs.rpi.edu/~moorthy/).
 
+## Interactive Audio/Graphics Generation using Kinect
+* Developed a interactive audio/graphics generation system using Microsoft Kinect
+* The system makes use of human body positions obtained with Kinect and generates audio and graphics interactively
+  - Graphics library: GLUT (OpenGL Utility)
+  - Programming language for audio: [Chuck](chuck.cs.princeton.edu)
+* Screenshots
+  ![Screenshots](../files/iap/green-man.png)
+    
   
+  
+
 
   
