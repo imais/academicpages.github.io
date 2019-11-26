@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate with Professor [Stacy Patterson](http://www.cs.rpi.edu/~pattes3/) at [Rensselaer Polytechnic Institute (RPI)](http://www.rpi.edu/). 
-*I am currently looking for a full-time position as a researcher/software engineer.*
+I am a data scientist at [ABEJA, Inc., Japan](https://abejainc.com/en/), where I am part of the (Insight for Retail)[https://abejainc.com/en/business/] development team. 
+
+Previously, I was a postdoctoral research associate with Professor [Stacy Patterson](http://www.cs.rpi.edu/~pattes3/) at [Rensselaer Polytechnic Institute (RPI)](http://www.rpi.edu/). 
 
 I received my Ph.D. in Computer Science from RPI, where I was awarded with the Robert McNaughton Prize for outstanding performance as a graduate student in Computer Science. I was a member of the [Worldwide Computing Lab](http://wcl.cs.rpi.edu), and advised by Professor [Carlos A. Varela](http://www.cs.rpi.edu/~cvarela/) and Professor [Stacy Patterson](http://www.cs.rpi.edu/~pattes3/).
 Before joining RPI, I received my B.S. and M.Eng. from Tokyo Institute of Technology.
