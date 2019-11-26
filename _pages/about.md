@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist at [ABEJA, Inc., Japan](https://abejainc.com/en/), where I am part of the (Insight for Retail)[https://abejainc.com/en/business/] development team. 
+I am a data scientist at [ABEJA, Inc., Japan](https://abejainc.com/en/), where I am part of the [Insight for Retail](https://abejainc.com/en/business/) development team. 
 
 Previously, I was a postdoctoral research associate with Professor [Stacy Patterson](http://www.cs.rpi.edu/~pattes3/) at [Rensselaer Polytechnic Institute (RPI)](http://www.rpi.edu/). 
 
